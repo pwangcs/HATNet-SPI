@@ -1,1 +1,1 @@
-'Dual-scale Transformer for Large-scale Single-Pixel Imaing', accepted by CVPR 2024 
+[CVPR 2024] Source code and pre-trained models for 'Dual-scale Transformer for Large-scale Single-Pixel Imaing'
